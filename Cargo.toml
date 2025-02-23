@@ -4,5 +4,6 @@ version = "0.1.0"
 authors = ["BB Tech Systems", "BB Tech Systems <contact@bbtechsystems.com>"]
 edition = "2024"
 description = "IRIG 106 library for Rust"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
