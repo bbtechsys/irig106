@@ -1,0 +1,8 @@
+[package]
+name = "irig106"
+version = "0.1.0"
+authors = ["BB Tech Systems", "BB Tech Systems <contact@bbtechsystems.com>"]
+edition = "2024"
+description = "IRIG 106 library for Rust"
+
+[dependencies]
